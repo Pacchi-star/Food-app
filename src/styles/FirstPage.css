@@ -1,0 +1,32 @@
+.footer {
+    width: 100%;
+    height: 150px;
+    background-color: #121619;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+  }
+   
+.social-facebook {
+ max-width:750px;
+ margin:0 auto;
+ display: flex;
+justify-content: space-evenly;
+ 
+} 
+
+.social-media-icon-white a {
+  color:white;
+  font-size: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+ 
+.footer p {
+  color: white;
+}
+
+  
